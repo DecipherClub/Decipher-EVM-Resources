@@ -101,7 +101,3 @@ This level is all about testing your EVM knowledge through puzzles and Capture T
 If you have additional resources or improvements, feel free to submit a pull request or open an issue. Missing URLs can also be updated in the placeholders provided.
 
 ---
-
-### Notes
-- URLs marked as `URL` need to be updated. If you have links, please attach them in the placeholders.
-- Structure and consistency have been improved for easy navigation.

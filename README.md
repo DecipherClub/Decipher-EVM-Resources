@@ -1,4 +1,4 @@
-# Decipher Club: Best Resources for Understanding the Ethereum Virtual Machine (EVM)
+# Decipher Club: Best Resources for understanding Ethereum Virtual Machine (EVM)
 
 This repository provides a comprehensive and structured collection of resources to learn everything about the Ethereum Virtual Machine (EVM), from the basics to deep dives, and eventually hands-on experiments.
 
